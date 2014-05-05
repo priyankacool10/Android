@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentTask</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="screen">Enter a number</string>
+	<string name="button">Calculate Factorial</string>
+	<string name="output">See the output HERE!</string>
+</resources>

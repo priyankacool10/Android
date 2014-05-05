@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpinSelect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="editText1">Enter First Name</string>
+    <string name="editText2">Enter Phone Number</string>
+    <string name="textView1">First Name</string>
+    <string name="textView2">Phone</string>
+    <string name="button1">Show Data</string>
+    <string name="spinner_prompt">Type of Number</string>
+    
+    
+
+</resources>
